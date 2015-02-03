@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td height="167" colspan="2"><p align="center"><span class="style1">Pastikan Anda Penghuni  untuk menggunakan sistem ini. <br />
-      Sila Masukkan Nombor Aduan.</span></p>
+      Sila Masukkan Nombor Adua.</span></p>
     <table width="497" border="0" align="center">
         <tr>
           <td width="595">
